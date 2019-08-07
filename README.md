@@ -7,6 +7,6 @@
 -------------------------------------------------------------------------------------------------------------------------------
 ### Usage:
 ##### pip install -r requirements.txt
-##### python Keiser.py [filename] [time_zone(optional)]
+##### python Keiser.py [filename] [time_zone(optional, US/Pacific by default)]
 -------------------------------------------------------------------------------------------------------------------------------
 ##### abc.KMZ --> abc.csv
